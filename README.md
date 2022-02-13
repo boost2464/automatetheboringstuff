@@ -1,2 +1,2 @@
 # automatetheboringstuff
-Automate the Boring Stuff
+Automate the Boring Stuff projects to keep track of progress.
