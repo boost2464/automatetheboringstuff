@@ -1,0 +1,2 @@
+spam = True
+spam
